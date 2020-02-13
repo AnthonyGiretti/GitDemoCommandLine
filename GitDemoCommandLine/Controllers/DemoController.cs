@@ -11,5 +11,6 @@ namespace GitDemoCommandLine.Controllers
     [ApiController]
     public class DemoController : ControllerBase
     {
+        public bool P1 { get; set; }
     }
 }
