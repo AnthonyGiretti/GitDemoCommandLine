@@ -7,5 +7,9 @@ namespace GitDemoCommandLine
 {
     public class manouvellefonctionnalité
     {
+        public manouvellefonctionnalité()
+        {
+
+        }
     }
 }
